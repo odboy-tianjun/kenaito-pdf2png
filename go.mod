@@ -7,8 +7,6 @@ toolchain go1.23.4
 require (
 	github.com/gabriel-vasile/mimetype v1.4.9
 	github.com/redmask-hb/GoSimplePrint v0.0.0-20210302075413-3a3af92bcb7d
-	github.com/satori/go.uuid v1.2.0
-	golang.org/x/image v0.27.0
 )
 
 require (
